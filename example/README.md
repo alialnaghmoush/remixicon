@@ -22,7 +22,7 @@ Icon(Remix.home_3_line)
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:boxicons/boxicons.dart';
+import 'package:remixicon/remixicon.dart';
 
 class MyApp extends StatelessWidget {
   @override
