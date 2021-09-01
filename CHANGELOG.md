@@ -1,3 +1,4 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+_Build Up Remix Icon v2.5.0!_
+- Enjoy a great experience with icons from Remix Icon.
