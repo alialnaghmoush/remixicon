@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return IconButton(
         // Use Boxicons
-        icon: Icon(Icon(Remix.home_3_line)),
+        icon: Icon(Remix.home_3_line),
         onPressed: () {
             print('its done');
         }

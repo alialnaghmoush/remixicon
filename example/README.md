@@ -1,6 +1,6 @@
 # Remix Icon For Flutter
 
-Simply Delightful Icon System and Easy to use 2271 Icon from [Remix](https://remixicon.com/). v2.5.0
+Simply Delightful Icon System and Easy to use in flutter, [Remix](https://remixicon.com/). v2.5.0
 
 Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2200+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return IconButton(
         // Use Boxicons
-        icon: Icon(Icon(Remix.home_3_line)),
+        icon: Icon(Remix.home_3_line),
         onPressed: () {
             print('its done');
         }
