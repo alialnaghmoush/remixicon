@@ -19,7 +19,7 @@ class Remix {
   Remix._();
 
   static const _kFontFam = 'Remix';
-  static const String? _kFontPkg = 'remix';
+  static const String? _kFontPkg = 'remixicon';
 
   static const IconData a24_hours_fill =
       IconData(0xea01, fontFamily: _kFontFam, fontPackage: _kFontPkg);

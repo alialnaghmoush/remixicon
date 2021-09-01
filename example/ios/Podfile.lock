@@ -1,21 +1,15 @@
 PODS:
   - Flutter (1.0.0)
-  - remixicon (0.0.1):
-    - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - remixicon (from `.symlinks/plugins/remixicon/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  remixicon:
-    :path: ".symlinks/plugins/remixicon/ios"
 
 SPEC CHECKSUMS:
   Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
-  remixicon: 32ce6ab5ce2b750e6589a39b9f1a695ecf559e29
 
 PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
 
