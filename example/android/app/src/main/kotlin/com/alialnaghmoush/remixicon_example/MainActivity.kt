@@ -1,0 +1,6 @@
+package com.alialnaghmoush.remixicon_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
