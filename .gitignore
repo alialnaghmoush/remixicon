@@ -21,12 +21,15 @@
 # is commented out by default.
 #.vscode/
 
+<<<<<<< HEAD
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
+=======
+>>>>>>> 02f6f86a8db8342c826bac409c74c6682b3d9b29
 .packages
 .metadata
 .pub-cache/
@@ -43,7 +46,15 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
+<<<<<<< HEAD
 # Android Studio will place build artifacts here
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+build/
+
+# Packages should not commit the "pubspec.lock" file. See
+# https://stackoverflow.com/a/16136740/8358501
+/pubspec.lock
+>>>>>>> 02f6f86a8db8342c826bac409c74c6682b3d9b29
