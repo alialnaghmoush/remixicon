@@ -1,11 +1,11 @@
-[![logo](images/remixicon-logo.png)](https://remixicon.com)
+[![logo](images/remixicon-logo.svg)](https://remixicon.com)
 # Remix Icon For Flutter
 
 Simply Delightful Icon System and Easy to use in flutter, [Remix](https://remixicon.com/). v4.1.0
 
 Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2700+ icons are all elaborately crafted so that they are born with the genes of readability, consistency, and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
-[![icon demo](images/remixicon-preview.png)](https://remixicon.com)
+[![icon demo](images/remixicon-preview.svg)](https://remixicon.com)
 View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
 
 ## Instalation
@@ -13,7 +13,7 @@ View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-remixicon: ^1.1.2
+remixicon: ^1.1.1
 ```
 
 ## Usage
