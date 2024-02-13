@@ -26,6 +26,7 @@
 .pub/
 /build/
 /pubspec.lock
+.dart_tool
 
 # Web related
 lib/generated_plugin_registrant.dart
