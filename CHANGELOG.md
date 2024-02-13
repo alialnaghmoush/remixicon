@@ -1,7 +1,12 @@
+## 1.1.1
+
+_Add screenshots logo for Remix Icon Packages_
+- A little improvements in remixicon packages.
+
 ## 1.1.0
 
-_Build Up Remix Icon v4.1.0!_
-- Enjoy a great experience with icons from Remix Icon.
+_Update Remix Icon to v4.1.0!_
+- _Updated to the latest version of the remix icon library at Jan 14, 2024.
 
 ## 1.0.0
 
