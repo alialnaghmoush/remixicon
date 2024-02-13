@@ -1,3 +1,8 @@
+## 1.1.2
+
+_Add PNG images for Remix Icon Packages_
+- Fix the images not appearing in the README.dm file
+
 ## 1.1.1
 
 _Add screenshots logo for Remix Icon Packages_
