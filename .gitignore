@@ -22,11 +22,11 @@
 
 .packages
 .metadata
+.dart_tool/
 .pub-cache/
 .pub/
 /build/
 /pubspec.lock
-.dart_tool
 
 # Web related
 lib/generated_plugin_registrant.dart
