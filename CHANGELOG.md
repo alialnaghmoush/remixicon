@@ -1,3 +1,8 @@
+## 1.2.0
+
+_Update Remix Icon to v4.2.0!_
+- _Updated to the latest version of the remix icon library at Feb 25, 2024.
+
 ## 1.1.1
 
 _Add screenshots logo for Remix Icon Packages_
