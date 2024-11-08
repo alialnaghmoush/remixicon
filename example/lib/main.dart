@@ -14,7 +14,7 @@ class RootApp extends StatelessWidget {
           title: const Text('Remix Icons Plugin'),
         ),
         body: Center(
-          child: Icon(Remix.home_3_line),
+          child: Icon(Remix.account_box_2_fill),
         ),
       ),
     );
