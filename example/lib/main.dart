@@ -11,10 +11,14 @@ class RootApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Remix Icons Plugin'),
+          title: const Text('Remix Icons v4.5.0 Plugin'),
         ),
         body: Center(
-          child: Icon(Remix.account_box_2_fill),
+          child: Icon(
+            Remix.account_box_2_line,
+            size: 64,
+            color: Colors.grey.shade900,
+          ),
         ),
       ),
     );
