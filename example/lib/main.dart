@@ -36,9 +36,9 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Remix Icons v4.6.0'),
-        actions: [
+        actions: const [
           Padding(
-            padding: const EdgeInsets.only(right: 16.0),
+            padding: EdgeInsets.only(right: 16.0),
             child: Icon(RemixIcons.service_bell_fill),
           ),
         ],
@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
             _selectedIndex = index;
           });
         },
-        destinations: [
+        destinations: const [
           NavigationDestination(
             icon: Icon(RemixIcons.diamond_fill),
             label: 'New Icons',
@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: Icon(RemixIcons.multi_image_fill),
+        child: const Icon(RemixIcons.multi_image_fill),
       ),
     );
   }
@@ -134,26 +134,26 @@ class _HomePageState extends State<HomePage> {
   }
 
   Widget _buildCategoriesPage() {
-    return Center(
+    return const Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Icon(RemixIcons.folder_fill, size: 64),
-          const SizedBox(height: 16),
-          const Text('Categories Page'),
+          SizedBox(height: 16),
+          Text('Categories Page'),
         ],
       ),
     );
   }
 
   Widget _buildSettingsPage() {
-    return Center(
+    return const Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Icon(RemixIcons.settings_fill, size: 64),
-          const SizedBox(height: 16),
-          const Text('Settings Page'),
+          SizedBox(height: 16),
+          Text('Settings Page'),
         ],
       ),
     );
