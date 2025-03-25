@@ -1,3 +1,10 @@
+v1.4.0
+
+_Update Readme!_
+
+- Updated readme to the version v1.4
+
+
 ## v1.4.0
 
 _Update Remix Icon to v4.6.0!_

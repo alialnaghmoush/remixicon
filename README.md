@@ -3,7 +3,7 @@
 # Remix Icon For Flutter
 
 Simply Delightful Icon System and Easy to use in flutter,
-[Remix](https://remixicon.com/). v4.5.0
+[Remix](https://remixicon.com/). v4.6.0
 
 Remix Icon is a set of open-source neutral-style system symbols for designers
 and developers. Unlike a patchwork icon library, 3000+ icons are all elaborately
@@ -20,7 +20,7 @@ full set of Remix Icons at [remixicon.com](https://remixicon.com).
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-remixicon: ^1.3.1
+remixicon: ^1.4.1
 ```
 
 ## Usage
@@ -28,8 +28,32 @@ remixicon: ^1.3.1
 You can use it very easily. For example:
 
 ```dart
+Icon(RemixIcons.home_3_line)
+```
+or
+```dart
 Icon(Remix.home_3_line)
 ```
+
+```dart
+import 'package:flutter/material.dart';
+import 'package:remixicon/remixicon.dart';
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return IconButton(
+        // Use Boxicons
+        icon: Icon(RemixIcons.home_3_line),
+        onPressed: () {
+            print('its done');
+        }
+    );
+  }
+}
+```
+
+## or
 
 ```dart
 import 'package:flutter/material.dart';
