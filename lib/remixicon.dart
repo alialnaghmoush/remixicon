@@ -15311,6 +15311,391 @@ class RemixIcons {
     fontFamily: _kFontFam,
     fontPackage: _kFontPkg,
   );
+  static const IconData ai_agent_fill = IconData(
+    0xf5f3,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData ai_agent_line = IconData(
+    0xf5f4,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData ai_generate_2_fill = IconData(
+    0xf5f5,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData ai_generate_2_line = IconData(
+    0xf5f6,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData ai_generate_3d_fill = IconData(
+    0xf5f7,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData ai_generate_3d_line = IconData(
+    0xf5f8,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData ai = IconData(
+    0xf5f9,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData apps_ai_fill = IconData(
+    0xf5fa,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData apps_ai_line = IconData(
+    0xf5fb,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData atom_fill = IconData(
+    0xf5fc,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData atom_line = IconData(
+    0xf5fd,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData book_ai_fill = IconData(
+    0xf5fe,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData book_ai_line = IconData(
+    0xf5ff,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData brain_3_fill = IconData(
+    0xf600,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData brain_3_line = IconData(
+    0xf601,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData brain_ai_3_fill = IconData(
+    0xf602,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData brain_ai_3_line = IconData(
+    0xf603,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData brush_ai_3_fill = IconData(
+    0xf604,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData brush_ai_3_line = IconData(
+    0xf605,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData camera_4_fill = IconData(
+    0xf606,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData camera_4_line = IconData(
+    0xf607,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData camera_ai_2_fill = IconData(
+    0xf608,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData camera_ai_2_line = IconData(
+    0xf609,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData chat_ai_2_fill = IconData(
+    0xf60a,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData chat_ai_2_line = IconData(
+    0xf60b,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData chat_ai_3_fill = IconData(
+    0xf60c,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData chat_ai_3_line = IconData(
+    0xf60d,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData chat_ai_4_fill = IconData(
+    0xf60e,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData chat_ai_4_line = IconData(
+    0xf60f,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData chat_smile_ai_3_fill = IconData(
+    0xf610,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData chat_smile_ai_3_line = IconData(
+    0xf611,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData deepseek_fill = IconData(
+    0xf612,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData deepseek_line = IconData(
+    0xf613,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData file_ai_2_fill = IconData(
+    0xf614,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData file_ai_2_line = IconData(
+    0xf615,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData file_ai_fill = IconData(
+    0xf616,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData file_ai_line = IconData(
+    0xf617,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData function_ai_fill = IconData(
+    0xf618,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData function_ai_line = IconData(
+    0xf619,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData game_2_fill = IconData(
+    0xf61a,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData game_2_line = IconData(
+    0xf61b,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData goblet_broken_fill = IconData(
+    0xf61c,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData goblet_broken_line = IconData(
+    0xf61d,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData lightbulb_ai_fill = IconData(
+    0xf61e,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData lightbulb_ai_line = IconData(
+    0xf61f,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData loop_left_ai_fill = IconData(
+    0xf620,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData loop_left_ai_line = IconData(
+    0xf621,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData loop_right_ai_fill = IconData(
+    0xf622,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData loop_right_ai_line = IconData(
+    0xf623,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData message_ai_3_fill = IconData(
+    0xf624,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData message_ai_3_line = IconData(
+    0xf625,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData painting_ai_fill = IconData(
+    0xf626,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData painting_ai_line = IconData(
+    0xf627,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData painting_fill = IconData(
+    0xf628,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData painting_line = IconData(
+    0xf629,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData pencil_ai_2_fill = IconData(
+    0xf62a,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData pencil_ai_2_line = IconData(
+    0xf62b,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData pencil_ai_fill = IconData(
+    0xf62c,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData pencil_ai_line = IconData(
+    0xf62d,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData remix_fill = IconData(
+    0xf62e,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData remix_line = IconData(
+    0xf62f,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData search_ai_2_fill = IconData(
+    0xf630,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData search_ai_2_line = IconData(
+    0xf631,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData search_ai_3_fill = IconData(
+    0xf632,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData search_ai_3_line = IconData(
+    0xf633,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData search_ai_4_fill = IconData(
+    0xf634,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData search_ai_4_line = IconData(
+    0xf635,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData search_ai_fill = IconData(
+    0xf636,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData search_ai_line = IconData(
+    0xf637,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData speech_to_text_fill = IconData(
+    0xf638,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData speech_to_text_line = IconData(
+    0xf639,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData target_fill = IconData(
+    0xf63a,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData target_line = IconData(
+    0xf63b,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData text_to_speech_fill = IconData(
+    0xf63c,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData text_to_speech_line = IconData(
+    0xf63d,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData wrench_fill = IconData(
+    0xf63e,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
+  static const IconData wrench_line = IconData(
+    0xf63f,
+    fontFamily: _kFontFam,
+    fontPackage: _kFontPkg,
+  );
 }
 
 typedef Remix = RemixIcons;
