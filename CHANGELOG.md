@@ -1,13 +1,25 @@
-v1.4.1
+## v4.9.2
 
-_Update Readme!_
+*Add missing icon on [Remix Icon](https://remixicon.com/) v4.9.1.*
+
+## v4.9.1
+
+*Align with [Remix Icon](https://remixicon.com/) v4.9.1.*
+
+- Package version now matches upstream Remix Icon (4.9.1).
+- Updated to the latest Remix Icon library at [remixicon.com](https://remixicon.com/) v4.9.1.
+- **Pub score:** Fixed dangling library doc comment; added dartdoc to library, classes, and all icon constants; added `analysis_options.yaml`; fixed README typo (Installation).
+- **Example app:** Updated to v4.9.1 (AppBar title and “New in” card); aligned `example` with main package (Flutter constraint, `lints: ^5.0.0`, `analysis_options` using `package:lints/recommended.yaml`).
+
+## v1.4.1
+
+*Update Readme!*
 
 - Updated readme to the version v1.4
 
-
 ## v1.4.0
 
-_Update Remix Icon to v4.6.0!_
+*Update Remix Icon to v4.6.0!*
 
 - Updated to the latest version of the remix icon library at Dec 17, 2024.
 - Now we can use new call RemixIcons or Remix or both like:
@@ -53,30 +65,31 @@ RemixIcon is now 6 years old. Thank you all for your support and companionship o
 
 ## v1.3.0
 
-_Update Remix Icon to v4.5.0!_
+*Update Remix Icon to v4.5.0!*
 
 - Updated to the latest version of the remix icon library at Oct 28, 2024.
 
 ## v1.2.0
 
-_Update Remix Icon to v4.2.0!_
+*Update Remix Icon to v4.2.0!*
 
 - _Updated to the latest version of the remix icon library at Feb 25, 2024.
 
 ## v1.1.1
 
-_Add screenshots logo for Remix Icon Packages_
+*Add screenshots logo for Remix Icon Packages*
 
 - A little improvements in remixicon packages.
 
 ## v1.1.0
 
-_Update Remix Icon to v4.1.0!_
+*Update Remix Icon to v4.1.0!*
 
 - Updated to the latest version of the remix icon library at Jan 14, 2024.
 
 ## v1.0.0
 
-_Build Up Remix Icon v2.5.0!_
+*Build Up Remix Icon v2.5.0!*
 
 - Enjoy a great experience with icons from Remix Icon.
+

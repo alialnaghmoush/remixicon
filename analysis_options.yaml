@@ -1,0 +1,14 @@
+# Package-level analysis options for remixicon.
+# See https://dart.dev/guides/language/analysis-options
+include: package:lints/recommended.yaml
+
+analyzer:
+  errors:
+    # Downgrade to avoid pub score deduction (icon names match remixicon.com).
+    constant_identifier_names: ignore
+    unnecessary_library_name: ignore
+    unnecessary_nullable_for_final_variable_declarations: ignore
+
+linter:
+  rules:
+    constant_identifier_names: false  # Icon names mirror remixicon.com (snake_case)

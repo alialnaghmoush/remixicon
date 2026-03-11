@@ -1,6 +1,6 @@
 name: remixicon
 description: Remix icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
-version: 1.4.1
+version: 4.9.2
 homepage: https://remixicon.com/
 repository: https://github.com/alialnaghmoush/remixicon
 topics: [icon]
@@ -16,12 +16,13 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  lints: ^5.0.0
 
 flutter:
   fonts:
-    - family: Remix
+    - family: remix
       fonts:
-        - asset: fonts/Remix.ttf
+        - asset: fonts/remix.ttf
 
 screenshots:
   - description: The Remix Icon logo.
