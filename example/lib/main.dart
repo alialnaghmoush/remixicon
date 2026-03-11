@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Remix Icons v4.6.0'),
+        title: const Text('Remix Icons v4.9.1'),
         actions: const [
           Padding(
             padding: EdgeInsets.only(right: 16.0),
@@ -94,13 +94,13 @@ class _HomePageState extends State<HomePage> {
                 child: Column(
                   children: [
                     const Text(
-                      'New in v1.4.0',
+                      'Remix Icon v4.9.1',
                       style:
                           TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                     ),
                     const SizedBox(height: 8),
                     Text(
-                      'Featuring new icons released in December 2024',
+                      'Neutral-style system symbols for designers and developers.',
                       style: TextStyle(color: Colors.grey[600]),
                     ),
                   ],
