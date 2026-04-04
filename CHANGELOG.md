@@ -1,3 +1,9 @@
+## v4.9.3
+
+*Ship the full official Remix Icon font so all defined codepoints resolve.*
+
+- Replaced bundled `fonts/remix.ttf` with the complete font from [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon). The previous subset was missing several cmap entries and glyphs (including `arrow-down-line` at U+EA4C and neighboring codepoints), which caused those icons to appear blank in Flutter.
+
 ## v4.9.2
 
 *Add missing icon on [Remix Icon](https://remixicon.com/) v4.9.1.*

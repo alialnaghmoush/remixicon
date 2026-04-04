@@ -3,7 +3,7 @@
 # Remix Icon For Flutter
 
 Simply Delightful Icon System and Easy to use in flutter,
-[Remix](https://remixicon.com/). v4.9.1
+[Remix](https://remixicon.com/). v4.9.3
 
 Remix Icon is a set of open-source neutral-style system symbols for designers
 and developers. Unlike a patchwork icon library, 3000+ icons are all elaborately
@@ -20,7 +20,7 @@ full set of Remix Icons at [remixicon.com](https://remixicon.com).
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-remixicon: ^4.9.1
+remixicon: ^4.9.3
 ```
 
 ## Usage

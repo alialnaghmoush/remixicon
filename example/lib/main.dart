@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Remix Icons v4.9.1'),
+        title: const Text('Remix Icons v4.9.3'),
         actions: const [
           Padding(
             padding: EdgeInsets.only(right: 16.0),
@@ -94,7 +94,7 @@ class _HomePageState extends State<HomePage> {
                 child: Column(
                   children: [
                     const Text(
-                      'Remix Icon v4.9.1',
+                      'Remix Icon v4.9.3',
                       style:
                           TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                     ),
@@ -121,6 +121,16 @@ class _HomePageState extends State<HomePage> {
                 _buildIconCard(RemixIcons.alarm_add_fill, 'Alarm Add'),
                 _buildIconCard(RemixIcons.arrow_down_long_line, 'Down Long'),
                 _buildIconCard(RemixIcons.arrow_left_long_line, 'Left Long'),
+                _buildIconCard(RemixIcons.arrow_down_line, 'Down Line'),
+                _buildIconCard(RemixIcons.arrow_left_line, 'Left Line'),
+                _buildIconCard(RemixIcons.arrow_right_line, 'Right Line'),
+                _buildIconCard(RemixIcons.arrow_up_line, 'Up Line'),
+                _buildIconCard(
+                    RemixIcons.arrow_left_down_line, 'Left Down Line'),
+                _buildIconCard(RemixIcons.arrow_left_up_line, 'Left Up Line'),
+                _buildIconCard(
+                    RemixIcons.arrow_right_down_line, 'Right Down Line'),
+                _buildIconCard(RemixIcons.arrow_right_up_line, 'Right Up Line'),
                 _buildIconCard(RemixIcons.chess_fill, 'Chess'),
                 _buildIconCard(RemixIcons.figma_fill, 'Figma'),
                 _buildIconCard(
